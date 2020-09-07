@@ -1,0 +1,29 @@
+{
+    "name": "scatter-plot-visualization",
+    "version": "1.0.0",
+    "description": "Scatter plot visualization using WebGL, a project for computer graphics course which was developed by SophisticatedKids at Politecnico di Milano",
+    "main": "index.js",
+    "scripts": {
+        "prestart": "npm install",
+        "start": "node index.js"
+    },
+    "keywords": [
+        "HTML",
+        "JavaScript",
+        "Nodejs",
+        "Bootstrap",
+        "JQuery",
+        "WebGL",
+        "NPM"
+    ],
+    "author": "SophisticatedKids",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "finalhandler": "1.1.2",
+        "fs": "0.0.1-security",
+        "http": "0.0.1-security",
+        "serve-static": "1.14.1"
+    },
+    "devDependencies": {}
+}
